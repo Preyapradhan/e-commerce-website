@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Starry Night",
+        "artist": "Vincent van Gogh",
+        "category": "Paintings",
+        "image": "Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+        "description": "A famous painting by Vincent van Gogh.",
+        "price": "2400"
+    },
+    {
+        "id": 2,
+        "title": "Mona Lisa",
+        "artist": "Leonardo da Vinci",
+        "category": "Paintings",
+        "image": "Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+        "description": "A portrait painting by Leonardo da Vinci.",
+        "price": "2500"
+    },
+    {
+        "id": 3,
+        "title": "The Persistence of Memory",
+        "artist": "Salvador Dalí",
+        "category": "Paintings",
+        "image": "The_Persistence_of_Memory.jpg",
+        "description": "A surreal painting by Salvador Dalí.",
+        "price": "2600"
+    },
+    {
+        "id": 4,
+        "title": "Handcrafted Vase",
+        "artist": "Unknown",
+        "category": "Crafts",
+        "image": "Poole_Lifestyle_Birds_crop_48452_grande.jpg",
+        "description": "A beautiful handcrafted vase.",
+        "price": "2700"
+    },
+    {
+        "id": 5,
+        "title": "Wooden Sculpture",
+        "artist": "Unknown",
+        "category": "Crafts",
+        "image": "1000_F_599592829_I4AYo2bV6gTuhAqgKkTXhG3G10MwIlnh.jpg",
+        "description": "An intricate wooden sculpture.",
+        "price": "2800"
+    }
+]

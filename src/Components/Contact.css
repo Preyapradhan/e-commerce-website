@@ -1,0 +1,76 @@
+/* Contact.css */
+.contact-container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    padding-top: 50px;
+    background-color:snow;
+  }
+  
+  .contact-container h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .contact-container p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  
+  .contact-form {
+    max-width: 600px;
+    padding-left: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+  }
+  
+  .form-group {
+    position: relative;
+    margin-bottom: 20px;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    transition: border-bottom-color 0.3s ease;
+  }
+  
+  .form-group input:focus,
+  .form-group textarea:focus {
+    outline: none;
+    border-bottom-color: #007bff;
+  }
+  
+  .form-group input:focus ,
+  .form-group textarea:focus ,
+  .form-group input:not(:placeholder-shown) + label ,
+  .form-group textarea:not(:placeholder-shown)+ label {
+    top: -20px;
+    font-size: 0.8rem;
+    color: #007bff;
+  }
+  
+   
+  
+  button {
+    width: 150px;
+    margin-top: 20px;
+    padding: 12px ;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
